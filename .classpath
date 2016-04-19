@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/User/Desktop/Eclipse and Java/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.30/appengine-java-sdk-1.9.30/lib/shared/servlet-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Documents%20and%20Settings/User/Desktop/Eclipse%20and%20Java/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.30/appengine-java-sdk-1.9.30/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Documents and Settings/User/Desktop/Eclipse and Java/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.30/appengine-java-sdk-1.9.30/lib/user/appengine-api-1.0-sdk-1.9.30.jar" sourcepath="C:/Documents and Settings/User/Desktop/Eclipse and Java/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.30/appengine-java-sdk-1.9.30/src/user/appengine-api-1.0-sdk-1.9.30-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Documents%20and%20Settings/User/Desktop/Eclipse%20and%20Java/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.30/appengine-java-sdk-1.9.30/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

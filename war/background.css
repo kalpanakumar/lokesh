@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+tr, td {
+padding: 20px;
+height: 3px;
+color: black;
+font-size: 25px;
+font-family: "Times new roman";
+}
+caption {
+	text-align: center;
+	color: blue;
+	font-size: 50px;
+	font-family: "Times new roman";
+}
+.page {
+	background-color: blue;
+}
+p {
+	color:red;
+}
+img  {
+    float: right;
+    margin: 70px;
+}
+.login {
+	border-style: solid;
+	margin: 50px;
+    border-width: 100;
+    border-height: 100;
+    border-color:transparent;
+    background: lightgrey;
+}
+#2ndiv{
+	margin-top:5px;
+}
